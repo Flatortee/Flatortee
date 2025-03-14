@@ -18,10 +18,3 @@ WEEB
 | Profil | Langages les plus utilisés |
 |--------|---------------------------|
 | ![Profil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flatortee&theme=tokyonight) | ![Langages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flatortee&theme=tokyonight) |
-
-## My cars (soon)
-
-| exemple car 1 | exemple car 2 |
-|------------|------------|
-| ![image](https://github.com/user-attachments/assets/cee21b96-911e-4fb6-86ab-6504c0fcf4ea) | ![image](https://github.com/user-attachments/assets/550925f3-86c7-4991-be25-561440abe625)
-
