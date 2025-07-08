@@ -14,7 +14,3 @@ WEEB
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 
-## 📊 GitHub Stats
-| Profil | Langages les plus utilisés |
-|--------|---------------------------|
-| ![Profil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flatortee&theme=tokyonight) | ![Langages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flatortee&theme=tokyonight) |
