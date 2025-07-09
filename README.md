@@ -17,4 +17,4 @@ WEEB
 ## 📊 GitHub Stats
 | Profil | Langages les plus utilisés |
 |--------|---------------------------|
-| ![Profil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flatortee&theme=tokyonight) | ![Langages]() |
+| ![Profil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flatortee&theme=tokyonight) | ![Langages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flatortee&theme=tokyonight) |
