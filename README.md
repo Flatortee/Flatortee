@@ -20,7 +20,7 @@
   <!-- <a href="mailto:TON_EMAIL"> -->
   <!--  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> -->
   <!-- </a> -->
-  <a href="https://TON_SITE_WEB">
+  <a href="https://flatortee.github.io">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 
