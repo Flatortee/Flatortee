@@ -6,7 +6,7 @@
   <br/>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Open-Source+Enthusiast+%F0%9F%94%A5;Anime+%2F+Manga+Lover+%E2%9C%A8;Always+learning+new+things...+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Open-Source+Enthusiast+%F0%9F%94%A5;Anime+%2F+Manga+Lover+%E2%9C%A8;Always+learning+new+things...+%F0%9F%93%96;Student+%E2%9C%A8" alt="Typing SVG" />
 
   <br/>
 
