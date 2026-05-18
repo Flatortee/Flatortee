@@ -133,8 +133,6 @@ fun_fact: "Dark mode only. Always."
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flatortee&theme=tokyonight" width="100%" alt="Profile Summary"/>
 
-  <br/><br/>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flatortee&theme=tokyonight" width="49%"/>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flatortee&theme=tokyonight&utcOffset=1" width="49%"/>
