@@ -135,9 +135,9 @@ fun_fact: "Dark mode only. Always."
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flatortee&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flatortee&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flatortee&theme=tokyonight&utcOffset=1" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flatortee&theme=tokyonight" width="49%"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flatortee&theme=tokyonight&utcOffset=1" width="49%"/>
 
 </td>
 <td width="40%" align="center" valign="middle">
