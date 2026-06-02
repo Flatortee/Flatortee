@@ -41,18 +41,18 @@
 <td width="55%">
 
 ```yaml
-name:       "Ton Prénom / Pseudo"
+name:       "Flatorte"
 location:   "France 🇫🇷"
 status:     "Building stuff that (mostly) works"
 
 currently:
-  - learning:    ["TypeScript", "Rust", "DevOps"]
-  - working_on:  "Projet en cours 🚀"
-  - looking_for: "Collabs & Open-Source"
+  - learning:    ["C# .NET 10", "C++ 26"]
+  - working_on:  "Nanally Engine & Unity Game"
 
 interests:
   - "⚡ Full-Stack Development"
-  - "🔒 Cybersecurity"
+  - "🌐 Network"
+  - "🧊 Shaders Unity 6.4"
   - "🤖 AI / Machine Learning"
   - "🎌 Anime & Manga"
   - "🎮 Game Dev"
